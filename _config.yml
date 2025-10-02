@@ -209,13 +209,7 @@ author:
     
 category_list: [
   "none", 
-  "drafts", 
-  "books", 
-  "periodicals", 
-  "essays", 
-  "poems", 
-  "documentation",
-  "correspondence"
+  "recipes"
 ]
 
 defaults:
