@@ -1,7 +1,7 @@
 ---  
 layout: paginate  
-title: "Cranberry Loaf"  
-permalink: items/recipes/cranberry-loaf.md
+title: "Cranberry Loaf (Old)"  
+permalink: items/recipes/cranberry-loaf-old.md
 
 # Source Metadata  
 type: chapter  
