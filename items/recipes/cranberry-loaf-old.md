@@ -3,15 +3,15 @@ layout: paginate
 title: "Cranberry Loaf (Old)"  
 permalink: items/recipes/cranberry-loaf-old.md
 
-# Source Metadata  
+/# Source Metadata  
 type: chapter  
 author: Nancy Smith  
 chapter_title: Cranberry Loaf
 
-# Edition Metadata
+/# Edition Metadata
 
-# Contributors
-# Editors  
+/# Contributors
+/# Editors  
 file_edited_by:   
   - Dr Smith  
 ---
