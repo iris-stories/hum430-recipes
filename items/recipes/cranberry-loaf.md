@@ -1,7 +1,7 @@
 \---  
 layout: paginate  
 title: "Cranberry Loaf"  
-permalink: items/cranberry-loaf.md
+permalink: items/recipes/cranberry-loaf.md
 
 \# Source Metadata  
 type: chapter  
