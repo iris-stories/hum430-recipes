@@ -50,9 +50,7 @@ url: "https://iris-stories.github.io/"
 # you can do so using the Markdown file index.md.
 
 description: >- 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear on your home page, in your document 
-  head meta for Google search results, and in your RSS feed.xml site description.
+  Recipes help us access the past through sensory details, commodities, relationships, medical treatments, and more. Explore these recipes, drawn from 17th-18th century manuscripts.
 
 
 ####################
@@ -81,7 +79,7 @@ description: >-
 # Configure your links here:
 
 header_pages:  
-  - "paratext/docs/all-pages.html"
+  - "items/recipes/cranberry-loaf-old.md"
 
 
 ################
