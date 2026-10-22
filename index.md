@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Digital Edition Template by the Recovery Hub for American Women Writers
+title: HUM430 Recipe Archive
 
 # The homepage template includes title, banner image, and short description. 
 # Edit these in `_config.yml`, not in this file.
@@ -23,11 +23,6 @@ title: Digital Edition Template by the Recovery Hub for American Women Writers
 
 ---
 
-This is the `index.md` file, where you can add more information to your homepage
-after the banner image, page title, and short description.
+## Attribution
 
-## Important note about headings
-
-This page layout has a Heading 1 built in, so if you create headings in this 
-file, start with Heading level 2. See comments in the frontmatter/metadata of 
-this `index.md` file for more information.
+These recipes are in the collections of the Folger Shakespeare Library. You can find full attributions on each recipe page. The transcriptions and annotations are the work of HUM430 and ENG482 students at Southern Illinois University Edwardsville, Fall 2026. They have chosen whether they want to be identified as individual authors on their contributions. Both classes are taught by Dr. Meg Smith, IRIS Center.
