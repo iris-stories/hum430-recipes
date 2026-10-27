@@ -15,12 +15,12 @@ file_edited_by: Rayme Lewis
 
 Rayme Lewis  
 272146 MS  
-Recipe Book\[^ref2]  
+Recipe Book[^ref2]  
 Page 60  
-Diana Astry Orlebar\[^ref1]  
+Diana Astry Orlebar[^ref1]  
 England: 1701-1716
 
-To Stew Pidgeons\[^ref3]  
+To Stew Pidgeons[^ref3]  
 To a dozen of pigeons put a quart or 3 pints of water put into each of thayr bellys parsley and a pice of butter as big as a little walnut & a little pepper and salt when ye water do boyels put in ye pigeons and a bunch of sweet herbs if you please & when it hath stewed a little put in near a P0 of butter. Let it stew till they are ready. Put sum sypetts of white bread in your dish, and put ye broth and pigeons in ye dish. So serve it up.
 
 To Bake Herrings [^ref3] 
@@ -37,12 +37,12 @@ Recipe book of Diana Astry, Early 18th century
 # 
 
 **\#\# Footnotes**  
-**\[^ref1]**  
+**[^ref1]**  
 **1.Diana Astry**, Born January 2, 1671 –  Died December 4, 1716\) she was an English diarist and compiler of a recipe book containing 375 recipes acquired from a number of sources including family and friends.  
 [**https\://peoplepill.com/people/diana-astry-1**](https://peoplepill.com/people/diana-astry-1) 
 
-**\[^ref2]**  
-**2\. Recipe Book** Diana's recipe book included
+**[^ref2]**  
+**2. Recipe Book** Diana's recipe book included
 
 * 239 food dishes  
 * 52 recipes for wines or cordials (sweet drinks)  
