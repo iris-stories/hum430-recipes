@@ -16,9 +16,9 @@ Take the head of a turbit [^ref1] and wash it very clean cut it into pretty big 
 
 
 
-[^ref1] !\[alt text](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Turbit.jpg/500px-Turbit.jpg)
+[^ref1]: ![alt text](https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Turbit.jpg/500px-Turbit.jpg)
 
-[^ref2] The word prefer is likely missing here given the context
+[^ref2]: The word prefer is likely missing here given the context
 
-[^ref3] Spellings are highly phonetical throughout the manuscript (maece=mace, prefer=brefer)
+[^ref3]: Spellings are highly phonetical throughout the manuscript (maece=mace, prefer=brefer)
 
