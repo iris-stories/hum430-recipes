@@ -2,6 +2,7 @@
 layout: paginate  
 title: "Cranberry Loaf (Old)"  
 permalink: items/recipes/cranberry-loaf-old.md
+category: Recipes
 
 /# Source Metadata  
 type: chapter  
