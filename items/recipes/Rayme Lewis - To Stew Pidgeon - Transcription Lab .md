@@ -3,7 +3,9 @@
 layout: paginate
 title: Recipes of Diana Astry
 permalink: Recipes-of-Diana-Astry
+
 category: Recipes
+
 author: Diana Astry Orlebar
 publication_title: Manuscript
 publication_date: 1701-1708
