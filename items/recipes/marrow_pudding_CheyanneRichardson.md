@@ -2,9 +2,9 @@
 layout: paginate
 title: Marrow Pudding
 permalink: marrow_pudding
+
 category: recipes
 
-/# Source Metadata
 author: Unknown
 publication_title: A volume of cookery recipes, including both savoury dishes and puddings
 publication_date: 1710
