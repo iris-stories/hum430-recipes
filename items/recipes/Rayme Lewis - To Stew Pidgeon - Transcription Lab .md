@@ -9,10 +9,7 @@ publication_title: Manuscript
 publication_date: 1701-1708
 publication_place: Folger Library 272146
 file_edited_by: Rayme Lewis
-
-
-
-
+---
 
 Rayme Lewis  
 272146 MS  
